@@ -1,0 +1,6 @@
+{
+  "name": "RIVR - Fluid Asset Streams DeFi Dashboard",
+  "description": "A sleek, glassmorphism hero section for the RIVR DeFi dashboard featuring fluid staking, live streams, and smart vaults.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
